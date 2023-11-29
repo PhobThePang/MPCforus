@@ -1,5 +1,5 @@
 # MPCforus
-this is how to track our work edu and for mpc team only
+this is how to track our work for mpc team only
 
 make sure you installed Git Graph / Gitlens / Githistory extensions for best experience
 
@@ -25,9 +25,10 @@ at terminal
 5. commit the code(make sure you add comment) and push to git 
 6. ez 
 
-## Disclamer
-4 edu. only run for ur own risk.
-
 ## how to สั่งงาน 
 1. มอบหมายงานที่ branch เท่านั้น
 2. กรุณาส่งงานใน branch เท่านั้น เพื่อที่จะสามารถหางานที่ส่งมาแล้วได้สะดวก
+
+## Disclamer
+4 edu. only run for ur own risk.
+
