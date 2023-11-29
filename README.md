@@ -27,3 +27,7 @@ at terminal
 
 ## Disclamer
 4 edu. only run for ur own risk.
+
+## how to สั่งงาน 
+1. มอบหมายงานที่ branch เท่านั้น
+2. กรุณาส่งงานใน branch เท่านั้น เพื่อที่จะสามารถหางานที่ส่งมาแล้วได้สะดวก
